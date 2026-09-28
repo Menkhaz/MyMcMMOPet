@@ -25,3 +25,6 @@ build.number
 /target
 /modules/*/target
 dependency-reduced-pom.xml
+
+# Local API inspection and build files
+/.codex-tmp/

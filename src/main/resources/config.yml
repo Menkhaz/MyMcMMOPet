@@ -1,0 +1,9 @@
+# Multiplies mcMMO combat XP. 3.0 matches normal wolf Taming XP.
+# Set to 0 to disable bridge XP. Must be finite and non-negative.
+xp-multiplier: 3.0
+
+# Requires both this setting and mcMMO's PvP Taming XP settings.
+allow-pvp-xp: false
+
+# World names. mcMMO's own world blacklist also applies.
+disabled-worlds: []
